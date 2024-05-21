@@ -3,8 +3,7 @@
 - 🌱 I’m currently working on building python projects to strengthen my skills and exploring python libraries for analysis and visualization.
 - 💞️ I’m looking to collaborate on python projects,internships and learning experiences to further develop my skills
 - 📫 How to reach me email:ashagodasi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 Ashagodasi/Ashagodasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
